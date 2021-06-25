@@ -1,0 +1,19 @@
+#home {
+    background: #45456e;
+    color: white;
+}
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+li{
+    list-style: none;
+}
+li p {
+    border-bottom: 1px solid #e6e6e6;
+}
